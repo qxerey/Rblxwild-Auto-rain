@@ -1,4 +1,8 @@
 # Rblxwild-Auto-rain
+
+ RUN (chromedriver) before running the main app. If you run the main app without running chromedriver you will get a error!
+ 
+
 THIS IS GREAT FOR PEOPLE WHO PLAY RBLXWILD AND WANT TO JOIN EVERY RAIN. THIS WILL AUTO JOIN ALL THE RAINS AND COMPLETE THE PUZZLE SO YOU CAN GET free robux.
 
 ALL THE CODING IS ALREADY BUILT INTO ONE EXE FOLDER SO YOU DON;T HAVE TO DOWNLOAD ANYTHING ELSE.
